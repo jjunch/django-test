@@ -1,7 +1,7 @@
 #!/bin/bash
 set -euo pipefail
 
-PROJECT_DIR=/home/vagrant/django_git/mysite
+PROJECT_DIR=/home/vagrant/django-git/mysite
 REPO_URL=https://github.com/jjunch/django-test.git
 BRANCH=main   # 또는 master
 
